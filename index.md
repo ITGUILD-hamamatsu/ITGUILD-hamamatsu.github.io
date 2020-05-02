@@ -7,8 +7,6 @@
 不確実性の高まるこの社会において、学んだことが社会の中で価値をもつということを実感できることは、社会に出ていない学生にとって何よりも大きな学びであり、モチベーションの源泉になります。  
 だからこそ、たくさん学び、社会に高い価値を持つと認められる学生が生まれることで、その学生を目指す次の学生のモチベーションになる、そんなエコシステムを、この浜松に作っていきたい、というのが私たちの想いです。
 
-You can use the [editor on GitHub](https://github.com/ITGUILD-hamamatsu/ITGUILD-hamamatsu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
 
 ## ランク制
 - Platinum Gold資格者に、企業側から評価されたもの
