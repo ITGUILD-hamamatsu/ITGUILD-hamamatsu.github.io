@@ -8,3 +8,25 @@
 だからこそ、たくさん学び、社会に高い価値を持つと認められる学生が生まれることで、その学生を目指す次の学生のモチベーションになる、そんなエコシステムを、この浜松に作っていきたい、というのが私たちの想いです。
 
 You can use the [editor on GitHub](https://github.com/ITGUILD-hamamatsu/ITGUILD-hamamatsu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+
+## ランク制
+- Platinum Gold資格者に、企業側から評価されたもの
+ 
+- Gold 2233点 1時間半以内に全問正解<br>
+難易度の高いプログラムでも素早くコーディングできるレベル。
+難易度が高い設計の意図をくみ取り、素早く実装が可能。
+ 
+- Sliver 1233点～2233点かつ1時間半以上で全問正解<br>
+難易度の高いプログラムでも時間をかければコーディングできるレベル。
+難易度の高い設計の意図をくみ取り、実装が可能。
+　
+- Bronz 233点（中級問題正解）<br>
+基礎的なプログラミング能力があり、実装ができるレベル。
+ 
+- Bronz‘ 233点未満（初級問題正解）<br>
+最低限のプログラミング知識があるレベル。
+
+## Links
+拠点:[The Garage for Startups](https://the-garage-for-startups.jp/)<br>
+外部サイト:[Hamamatsu Students Crowd](https://hs-crowd.com/archives/118)
