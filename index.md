@@ -45,3 +45,6 @@ ITギルドの学生には、この試験結果のスキルレベルに応じた
 # Contact
 - Twitter:[@ITguild_h](https://twitter.com/ITguild_h?lang=ja)
 - Mail: itguildimprovehamamatsu@gmail.com
+
+
+<!-- theme cayman slate merlot timemachine -->
