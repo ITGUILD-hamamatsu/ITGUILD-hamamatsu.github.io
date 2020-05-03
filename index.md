@@ -64,5 +64,5 @@ ITギルドの学生には、この試験結果のスキルレベルに応じた
 
 
 
-<meta name="google-site-verification" content="iXmO8-C89nOkWZqCD7nIO8S3FCRti6kWIX5tw7zq9zM" />
+google-site-verification: google57f83e65abda8225.html
 <!-- theme cayman slate merlot timemachine -->
