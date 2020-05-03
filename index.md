@@ -63,4 +63,6 @@ ITギルドの学生には、この試験結果のスキルレベルに応じた
 - 外部サイト:[Hamamatsu Students Crowd](https://hs-crowd.com/archives/118)
 
 
+
+<meta name="google-site-verification" content="iXmO8-C89nOkWZqCD7nIO8S3FCRti6kWIX5tw7zq9zM" />
 <!-- theme cayman slate merlot timemachine -->
