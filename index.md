@@ -38,13 +38,18 @@ ITギルドの学生には、この試験結果のスキルレベルに応じた
 - Bronz‘ 233点未満（初級問題正解）<br>
 最低限のプログラミング知識があるレベル。
 
-# Links
-- 拠点:[The Garage for Startups](https://the-garage-for-startups.jp/)<br>
-- 外部サイト:[Hamamatsu Students Crowd](https://hs-crowd.com/archives/118)
+
+# 企業の方へ
+上記の想いに共感していただける企業の方は、ぜひ我々ギルドメンバーへプログラミングスキルを生かせるアルバイトやインターンの機会を与えていただけますと幸いです。
+お問い合わせは下記のContactのTwitterのDM,もしくはメールでお問い合わせください。
 
 # Contact
 - Twitter:[@ITguild_h](https://twitter.com/ITguild_h?lang=ja)
 - Mail: itguildimprovehamamatsu@gmail.com
+
+# Links
+- 拠点:[The Garage for Startups](https://the-garage-for-startups.jp/)<br>
+- 外部サイト:[Hamamatsu Students Crowd](https://hs-crowd.com/archives/118)
 
 
 <!-- theme cayman slate merlot timemachine -->
