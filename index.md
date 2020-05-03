@@ -62,6 +62,8 @@ ITギルドの学生には、この試験結果のスキルレベルに応じた
 - 拠点:[The Garage for Startups](https://the-garage-for-startups.jp/)<br>
 - 外部サイト:[Hamamatsu Students Crowd](https://hs-crowd.com/archives/118)
 
+<a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/ITguild_h?ref_src=twsrc%5Etfw">Tweets by ITguild_h</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 google-site-verification: google57f83e65abda8225.html
