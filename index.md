@@ -65,7 +65,7 @@ ITギルドの学生には、この試験結果のスキルレベルに応じた
 <a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/ITguild_h?ref_src=twsrc%5Etfw">Tweets by ITguild_h</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # member
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRMauhuZiU_5pDcRA1AhT1oEd2msG8C1B9jy-ERM4HFuoHwec5fjEvtrvemWsY0Y0gf1M_0Djw5HAx8/pubhtml?widget=true&amp;headers=false" data-width="800" data-height="600"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRMauhuZiU_5pDcRA1AhT1oEd2msG8C1B9jy-ERM4HFuoHwec5fjEvtrvemWsY0Y0gf1M_0Djw5HAx8/pubhtml?widget=true&amp;headers=false" width="800" height="600"></iframe>
 
 
 
