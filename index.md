@@ -57,17 +57,19 @@ ITギルドの学生には、この試験結果のスキルレベルに応じた
 # member
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRMauhuZiU_5pDcRA1AhT1oEd2msG8C1B9jy-ERM4HFuoHwec5fjEvtrvemWsY0Y0gf1M_0Djw5HAx8/pubhtml?widget=true&amp;headers=false" width="800" height="600"></iframe>
 
-# Contact
-- Twitter:[@ITguild_h](https://twitter.com/ITguild_h?lang=ja)
-- Mail: itguildimprovehamamatsu@gmail.com
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfSBLp34GgnUatFYf2vUKGBv6cqNl4T3co7xgEQzpFS14mHvw/viewform?embedded=true" width="640" height="1183" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
 
 # Links
 - 拠点:[The Garage for Startups](https://the-garage-for-startups.jp/)<br>
 - 外部サイト:[Hamamatsu Students Crowd](https://hs-crowd.com/archives/118)
 
 <a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/ITguild_h?ref_src=twsrc%5Etfw">Tweets by ITguild_h</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+# Contact
+- Twitter:[@ITguild_h](https://twitter.com/ITguild_h?lang=ja)
+- Mail: itguildimprovehamamatsu@gmail.com
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfSBLp34GgnUatFYf2vUKGBv6cqNl4T3co7xgEQzpFS14mHvw/viewform?embedded=true" width="640" height="1183" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
+
 
 google-site-verification: google57f83e65abda8225.html
 <!-- theme cayman slate merlot timemachine -->
